@@ -6,7 +6,7 @@
 # print('Seu nome é:', nome)
 
 # print('Dia', 'Mês', 'Ano', sep='/')
-#print('ontem', 'Hoje', 'Amanhã', sep='-')
+# print('ontem', 'Hoje', 'Amanhã', sep='-')
 # print("B", "n", "n", ".", sep='a')
 
 # Exemplo com fim de linha sem nenhum caracter
@@ -20,5 +20,5 @@
 # print(40)
 
 with open('arquivo.txt', 'w') as arquivo:
-    print("Meu nome e Argemiro Variante,", file=arquivo)
+    print("Meu nome e Argermiro Variante,", file=arquivo)
     print("Sou estudante de engenharia.", file=arquivo)
